@@ -59,8 +59,6 @@ public class OptimsingSingleJson {
 
         }
 
-
-
         ObjectMapper om = new ObjectMapper();
         om.writeValue(new File("//Users//lee//Documents//DB_connection//customerInfo"+".json"),jo);
         conn.close();

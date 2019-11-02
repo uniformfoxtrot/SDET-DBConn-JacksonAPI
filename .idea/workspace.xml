@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f10b7b12-ae4f-4a58-bf57-14f6e308f4ff" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/db/connectivity/OptimsingSingleJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/db/connectivity/CustomerDetailsAppium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/db/connectivity/Json2JavaObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customerInfo3.json" beforeDir="false" afterPath="$PROJECT_DIR$/customerInfo3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstRow.json" beforeDir="false" afterPath="$PROJECT_DIR$/firstRow.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/db/connectivity/Multiple_row_result_fetch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/db/connectivity/Multiple_row_result_fetch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customerInfo0.json" beforeDir="false" afterPath="$PROJECT_DIR$/customerInfo0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/db/connectivity/OptimsingSingleJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/db/connectivity/OptimsingSingleJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/db/connectivity/OptimsingSingleJson.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/db/connectivity/OptimsingSingleJson.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -55,11 +54,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OptimsingSingleJson.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OptimsingSingleJson.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/OptimsingSingleJson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+            <state relative-caret-position="334">
+              <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerDetails.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/CustomerDetails.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerDetailsAppium.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/CustomerDetailsAppium.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <folding>
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Json2JavaObject.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/Json2JavaObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,12 +139,14 @@
         <option value="$PROJECT_DIR$/test/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/db/connectivity/BasicJDBC_implementation.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/db/connectivity/single_row_result_fetch.java" />
-        <option value="$PROJECT_DIR$/customerInfo0.json" />
         <option value="$PROJECT_DIR$/customerInfo1.json" />
         <option value="$PROJECT_DIR$/src/main/java/com/db/connectivity/Multiple_row_result_fetch.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/db/connectivity/OptimsingSingleJson.java" />
         <option value="$PROJECT_DIR$/FinalResult.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/db/connectivity/OptimsingSingleJson.java" />
+        <option value="$PROJECT_DIR$/customerInfo0.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/db/connectivity/CustomerDetailsAppium.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/db/connectivity/Json2JavaObject.java" />
       </list>
     </option>
   </component>
@@ -194,6 +231,11 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.db.connectivity" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -206,9 +248,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OptimsingSingleJson">
+  <component name="RunManager" selected="Application.Json2JavaObject">
     <configuration name="BasicJDBC_implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.db.connectivity.BasicJDBC_implementation" />
+      <module name="DB_connection" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.db.connectivity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Json2JavaObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.db.connectivity.Json2JavaObject" />
       <module name="DB_connection" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -297,9 +350,11 @@
       <item itemvalue="Application.single_row_result_fetch" />
       <item itemvalue="Application.Multiple_row_result_fetch" />
       <item itemvalue="Application.OptimsingSingleJson" />
+      <item itemvalue="Application.Json2JavaObject" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Json2JavaObject" />
         <item itemvalue="Application.OptimsingSingleJson" />
         <item itemvalue="Application.Multiple_row_result_fetch" />
         <item itemvalue="Application.single_row_result_fetch" />
@@ -333,12 +388,12 @@
       <workItem from="1572069266104" duration="111000" />
       <workItem from="1572414768717" duration="5574000" />
       <workItem from="1572621437249" duration="1296000" />
-      <workItem from="1572677106035" duration="1996000" />
+      <workItem from="1572677106035" duration="2974000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21901000" />
+    <option name="totallyTimeSpent" value="22879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -354,12 +409,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.32969698" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.32969698" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3104435" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3104435" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -382,23 +437,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/single_row_result_fetch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="30" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/BasicJDBC_implementation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -681,13 +719,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customerInfo0.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="81" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/customerInfo1.json">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -709,13 +740,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/CustomerDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -751,8 +775,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/OptimsingSingleJson.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+        <state relative-caret-position="334">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/CustomerDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/CustomerDetailsAppium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customerInfo0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="101" lean-forward="true" selection-start-column="101" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/Json2JavaObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
