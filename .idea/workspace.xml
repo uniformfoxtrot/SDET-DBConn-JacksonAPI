@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f10b7b12-ae4f-4a58-bf57-14f6e308f4ff" name="Default" comment="" />
+    <list default="true" id="f10b7b12-ae4f-4a58-bf57-14f6e308f4ff" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/db/connectivity/OptimsingSingleJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customerInfo3.json" beforeDir="false" afterPath="$PROJECT_DIR$/customerInfo3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstRow.json" beforeDir="false" afterPath="$PROJECT_DIR$/firstRow.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/db/connectivity/Multiple_row_result_fetch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/db/connectivity/Multiple_row_result_fetch.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/test/target/" />
@@ -14,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BasicJDBC_implementation.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/BasicJDBC_implementation.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state>
+              <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -26,8 +34,8 @@
       <file leaf-file-name="Multiple_row_result_fetch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/Multiple_row_result_fetch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+            <state relative-caret-position="450">
+              <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,8 +46,8 @@
       <file leaf-file-name="single_row_result_fetch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/single_row_result_fetch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="495">
+              <caret line="33" column="92" selection-start-line="32" selection-start-column="8" selection-end-line="33" selection-end-column="92" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -47,38 +55,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="firstRow.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/firstRow.json">
+      <file leaf-file-name="OptimsingSingleJson.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/OptimsingSingleJson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="214">
+              <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerDetails.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/CustomerDetails.java">
+      <file leaf-file-name="FinalResult.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FinalResult.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-              <folding>
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#472#473#0" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
-                <element signature="e#550#551#0" expanded="true" />
-                <element signature="e#579#580#0" expanded="true" />
-                <element signature="e#620#621#0" expanded="true" />
-                <element signature="e#656#657#0" expanded="true" />
-                <element signature="e#691#692#0" expanded="true" />
-                <element signature="e#722#723#0" expanded="true" />
-                <element signature="e#770#771#0" expanded="true" />
-                <element signature="e#810#811#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -92,20 +85,31 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/db/connectivity/CustomerDetails.java" />
         <option value="$PROJECT_DIR$/firstRow.json" />
         <option value="$PROJECT_DIR$/src/main/java/com/db/connectivity/json2Java.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/db/connectivity/Multiple_row_result_fetch.java" />
         <option value="$PROJECT_DIR$/customerInfo2.json" />
-        <option value="$PROJECT_DIR$/customerInfo1.json" />
-        <option value="$PROJECT_DIR$/customerInfo0.json" />
         <option value="$PROJECT_DIR$/customerInfo3.json" />
         <option value="$PROJECT_DIR$/test/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/db/connectivity/BasicJDBC_implementation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/db/connectivity/single_row_result_fetch.java" />
+        <option value="$PROJECT_DIR$/customerInfo0.json" />
+        <option value="$PROJECT_DIR$/customerInfo1.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/db/connectivity/Multiple_row_result_fetch.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/db/connectivity/OptimsingSingleJson.java" />
+        <option value="$PROJECT_DIR$/FinalResult.json" />
       </list>
     </option>
   </component>
@@ -129,12 +133,16 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,7 +181,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -199,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.single_row_result_fetch">
+  <component name="RunManager" selected="Application.OptimsingSingleJson">
     <configuration name="BasicJDBC_implementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.db.connectivity.BasicJDBC_implementation" />
       <module name="DB_connection" />
@@ -213,6 +220,17 @@
     </configuration>
     <configuration name="Multiple_row_result_fetch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.db.connectivity.Multiple_row_result_fetch" />
+      <module name="DB_connection" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.db.connectivity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="OptimsingSingleJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.db.connectivity.OptimsingSingleJson" />
       <module name="DB_connection" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -278,12 +296,14 @@
       <item itemvalue="Application.BasicJDBC_implementation" />
       <item itemvalue="Application.single_row_result_fetch" />
       <item itemvalue="Application.Multiple_row_result_fetch" />
+      <item itemvalue="Application.OptimsingSingleJson" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OptimsingSingleJson" />
+        <item itemvalue="Application.Multiple_row_result_fetch" />
         <item itemvalue="Application.single_row_result_fetch" />
         <item itemvalue="Application.BasicJDBC_implementation" />
-        <item itemvalue="Application.Multiple_row_result_fetch" />
       </list>
     </recent_temporary>
   </component>
@@ -311,12 +331,14 @@
       <workItem from="1570578857447" duration="273000" />
       <workItem from="1571506696586" duration="695000" />
       <workItem from="1572069266104" duration="111000" />
-      <workItem from="1572414768717" duration="1052000" />
+      <workItem from="1572414768717" duration="5574000" />
+      <workItem from="1572621437249" duration="1296000" />
+      <workItem from="1572677106035" duration="1996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14087000" />
+    <option name="totallyTimeSpent" value="21901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -324,33 +346,33 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Codota" order="4" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49928468" weight="0.32969698" />
+      <window_info anchor="right" id="Codota" order="4" weight="0.3297568" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.32969698" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.32969698" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32969698" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3018598" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3104435" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49928468" weight="0.32969698" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,35 +382,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/CustomerDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-          <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/single_row_result_fetch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="360">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="30" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -430,24 +427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-          <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -496,24 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-          <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -562,90 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-          <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/single_row_result_fetch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="30" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/BasicJDBC_implementation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/Multiple_row_result_fetch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/firstRow.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/CustomerDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-          <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -694,24 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-          <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -770,24 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-          <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -812,60 +653,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/customerInfo1.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/customerInfo0.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/CustomerDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-          <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#810#811#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/customerInfo3.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/Multiple_row_result_fetch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -876,27 +668,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/single_row_result_fetch.java">
+    <entry file="file://$PROJECT_DIR$/customerInfo4.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customerInfo6.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customerInfo0.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="81" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customerInfo1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/Multiple_row_result_fetch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="36" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/BasicJDBC_implementation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/BasicJDBC_implementation.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/CustomerDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="41" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/customerInfo.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="59" column="6" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/single_row_result_fetch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="92" selection-start-line="32" selection-start-column="8" selection-end-line="33" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finalJson.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FinalResult.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/db/connectivity/OptimsingSingleJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

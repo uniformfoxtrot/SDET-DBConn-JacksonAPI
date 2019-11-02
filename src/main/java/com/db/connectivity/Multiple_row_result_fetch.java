@@ -27,7 +27,7 @@ public class Multiple_row_result_fetch
             c.setAmount(rs.getInt(3));
             c.setLocation(rs.getString(4));
             al.add(c);
-        }
+         }
         for(int i=0;i<al.size();i++)
         {
             ObjectMapper om = new ObjectMapper();
